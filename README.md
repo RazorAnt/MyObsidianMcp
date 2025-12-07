@@ -1,6 +1,6 @@
 # MyObsidianMcp
 
-A practical Model Context Protocol (MCP) server implementation in C# that provides tools for interacting with Obsidian vaults. This project demonstrates how to build MCP servers using .NET and was created as a companion to the blog post "Personal MCP with C#".
+A practical Model Context Protocol (MCP) server implementation in C# that provides tools for interacting with Obsidian vaults. This project demonstrates how to build MCP servers using .NET and was created as a companion to the blog post [Make Copilot Work Your Way: Building MCP Servers in C#](https://blog.nyveldt.com/post/building-mcp-servers-in-csharp).
 
 ## Overview
 
